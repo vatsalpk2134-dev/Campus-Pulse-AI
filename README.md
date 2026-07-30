@@ -2,7 +2,7 @@
 
 ### **One App. Smarter Mess Lines. Calmer Minds.**
 
-🏆 **Developed for EPIC HACKATHONE 2026**
+🏆 **Developed for EPIC HACKATHON 2026**
 
 🎓 **MBM UNIVERSITY, JODHPUR**
 
@@ -231,7 +231,7 @@ The repository is organized to maintain a clean structure, making it easy to nav
 
 **Project:** Campus Pulse AI
 
-**Developed for:** EPIC HACKATHONE 2026  
+**Developed for:** EPIC HACKATHON 2026  
 **Organization:** MBM UNIVERSITY, Jodhpur
 
 ### Team Members
