@@ -156,7 +156,11 @@ Campus Pulse AI follows a centralized AI-driven architecture that connects Stude
 
 The architecture enables real-time collaboration, intelligent recommendations, secure data management, and efficient campus operations through a single integrated platform.
 
+<p align="center">
+  <img src="diagrams/System_Architecture.png" width="900">
+</p>
 ---
+
 
 # 🔄 Prototype Workflow
 
@@ -200,7 +204,12 @@ Notifications & Recommendations
 
 The workflow demonstrates how Campus Pulse AI integrates multiple campus services into one intelligent platform. Every user request is processed through the AI Decision Engine, which generates smart recommendations, improves operational efficiency, and enhances the overall campus experience.
 
+<p align="center">
+  <img src="diagrams/Prototype_Workflow.png" width="900">
+</p>
+
 ---
+
 
 # 🛠 Technology Stack
 
