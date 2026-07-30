@@ -1,10 +1,21 @@
-# 🎓 Campus Pulse AI
+<p align="center">
+  <img src="assets/logo.png" width="180" alt="Campus Pulse Logo">
+</p>
 
-### **One App. Smarter Mess Lines. Calmer Minds.**
+<h1 align="center">🎓 Campus Pulse AI</h1>
 
-🏆 **Developed for EPIC HACKATHON 2026**
+<p align="center">
+<b>One App. Smarter Mess Lines. Calmer Minds.</b>
+</p>
 
-🎓 **MBM UNIVERSITY, JODHPUR**
+<p align="center">
+🏆 Developed for <b>EPIC Hackathon 2026</b><br>
+🎓 MBM University, Jodhpur
+</p>
+
+<p align="center">
+  <img src="assets/banner.png" alt="Campus Pulse AI Banner">
+</p>
 
 ---
 
