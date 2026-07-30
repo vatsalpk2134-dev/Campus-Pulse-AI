@@ -247,6 +247,13 @@ The repository is organized to maintain a clean structure, making it easy to nav
 
 ---
 
+## 📊 Project Presentation
+
+The complete project presentation is available in the `ppt` folder.
+
+📄 **Presentation:** [Campus Pulse AI Presentation](ppt/Campus_Pulse_AI_EPIC_Hackathon_Presentation.pdf)
+
+
 # 👥 Team Nova
 
 **Project:** Campus Pulse AI
