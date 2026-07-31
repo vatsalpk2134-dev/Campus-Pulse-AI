@@ -47,7 +47,7 @@ Campus Pulse AI addresses these problems through one unified intelligent platfor
 
 ---
 
-# ✨ Key Features
+## ✨ Key Features
 
 Campus Pulse AI combines multiple campus services into one intelligent platform.
 
@@ -66,11 +66,11 @@ Campus Pulse AI combines multiple campus services into one intelligent platform.
 
 ---
 
-# 🧠 AI Decision Engine
+## 🧠 AI Decision Engine
 
 The AI Decision Engine is the core intelligence of Campus Pulse AI. It continuously analyzes campus data and generates smart recommendations to improve campus operations and enhance the student experience.
 
-### AI analyzes:
+## AI analyzes:
 
 - 🍽️ Mess attendance patterns
 - 🏠 Hostel allocation requests
@@ -80,7 +80,7 @@ The AI Decision Engine is the core intelligence of Campus Pulse AI. It continuou
 - 🔔 Campus notifications
 - 📊 Student activity trends
 
-### AI Capabilities
+## AI Capabilities
 
 - 📈 Predicts daily mess attendance to reduce food wastage.
 - 🏠 Recommends suitable hostel room allocation.
@@ -93,13 +93,13 @@ The AI Decision Engine is the core intelligence of Campus Pulse AI. It continuou
 
 ---
 
-# 📱 Prototype Showcase
+## 📱 Prototype Showcase
 
 Campus Pulse AI includes a complete high-fidelity mobile application prototype designed using a modern and user-friendly interface.
 
 The prototype demonstrates the complete user journey for Students, Faculty, and Administrators.
 
-### Prototype Modules
+## Prototype Modules
 
 - 🟢 Splash Screen
 - 🔐 Login & Authentication
@@ -123,7 +123,7 @@ The prototype demonstrates the complete user journey for Students, Faculty, and 
 
 ---
 
-# 🏗 System Architecture
+## 🏗 System Architecture
 
 Campus Pulse AI follows a centralized AI-driven architecture that connects Students, Faculty, and Administrators through a unified platform.
 
@@ -145,7 +145,7 @@ Campus Pulse AI follows a centralized AI-driven architecture that connects Stude
   - Manage resources
   - Analyze reports and insights
 
-### Core Components
+## Core Components
 
 - 🤖 AI Decision Engine
 - ☁️ Centralized Cloud Database
@@ -162,7 +162,7 @@ The architecture enables real-time collaboration, intelligent recommendations, s
 ---
 
 
-# 🔄 Prototype Workflow
+## 🔄 Prototype Workflow
 
 The following workflow represents the complete journey of a user through Campus Pulse AI.
 
@@ -211,7 +211,7 @@ The workflow demonstrates how Campus Pulse AI integrates multiple campus service
 ---
 
 
-# 🛠 Technology Stack
+## 🛠 Technology Stack
 
 | Category | Technologies |
 |----------|--------------|
@@ -229,7 +229,7 @@ The workflow demonstrates how Campus Pulse AI integrates multiple campus service
 
 ---
 
-# 📂 Repository Structure
+## 📂 Repository Structure
 
 ```text
 Campus-Pulse-AI/
@@ -254,14 +254,14 @@ The complete project presentation is available in the `ppt` folder.
 📄 **Presentation:** [Campus Pulse AI Presentation](ppt/Campus_Pulse_AI_EPIC_Hackathon_Presentation.pdf)
 
 
-# 👥 Team Nova
+## 👥 Team Nova
 
 **Project:** Campus Pulse AI
 
 **Developed for:** EPIC HACKATHON 2026  
 **Organization:** MBM UNIVERSITY, Jodhpur
 
-### Team Members
+## Team Members
 
 - Dular Solanki
 - Vatsal
@@ -271,7 +271,7 @@ The complete project presentation is available in the `ppt` folder.
 
 ---
 
-# 🔮 Future Scope
+## 🔮 Future Scope
 
 Campus Pulse AI can be expanded with several advanced features, including:
 
@@ -287,7 +287,7 @@ The long-term vision is to build a unified intelligent campus ecosystem that enh
 
 ---
 
-# 📜 License
+## 📜 License
 
 This project is licensed under the **MIT License**.
 
